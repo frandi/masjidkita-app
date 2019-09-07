@@ -1,4 +1,7 @@
-# MasjidKita App
+---
+title: MasjidKita App
+description: The open source and networking platform for Masjid
+---
 
 MasjidKita is an open source CMS and networking platform for Masjid.
 
